@@ -37,15 +37,12 @@ These input values are used by the model to predict the final result.
 
 ---
 
-# ->Output Generated
-
-The output of this project is:
-
 ## **Predicted Final Marks**
 
 The machine learning model generates a predicted value for the student's final marks based on the given input features.
 
-#Technologies and Libraries Used
+#Technologies and Libraries Used:
+
 -Python
 -Pandas
 -NumPy
@@ -53,6 +50,10 @@ The machine learning model generates a predicted value for the student's final m
 -Scikit-learn
 -VS Code
 
+---
+# ->Output Generated
+
+The output of this project is:
 Example output:
 
 ``` id="5n5u9j"
