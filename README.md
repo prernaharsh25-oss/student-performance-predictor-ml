@@ -21,7 +21,7 @@ The main objectives of this project are:
 
 ---
 
-# 📥 Inputs Required
+# ->Inputs Required
 
 The model requires the following input features:
 
@@ -37,7 +37,7 @@ These input values are used by the model to predict the final result.
 
 ---
 
-# 📤 Output Generated
+# ->Output Generated
 
 The output of this project is:
 
