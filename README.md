@@ -41,14 +41,14 @@ These input values are used by the model to predict the final result.
 
 The machine learning model generates a predicted value for the student's final marks based on the given input features.
 
-#Technologies and Libraries Used:
+#Technologies and Libraries Used
 
--Python
--Pandas
--NumPy
--Matplotlib
--Scikit-learn
--VS Code
+      -Python
+       -Pandas
+        -NumPy
+      -Matplotlib
+     -Scikit-learn
+     -VS Code
 
 ---
 # ->Output Generated
