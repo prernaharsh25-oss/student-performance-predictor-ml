@@ -45,6 +45,14 @@ The output of this project is:
 
 The machine learning model generates a predicted value for the student's final marks based on the given input features.
 
+#Technologies and Libraries Used
+-Python
+-Pandas
+-NumPy
+-Matplotlib
+-Scikit-learn
+-VS Code
+
 Example output:
 
 ``` id="5n5u9j"
