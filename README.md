@@ -58,11 +58,60 @@ The output is a **numerical value (marks out of 100)**.
 ### Corresponding Output
                 Predicted Final Marks: 76.48
 
-
 ---
 
 ### Explanation
 
 The model analyzes the relationship between the input features and predicts the most likely final marks using the trained Linear Regression model.
+
+---
+## Sample Graph
+
+### Study Hours vs Final Marks
+
+This graph shows the relationship between the number of study hours and the final marks obtained by students.
+
+![Study Hours vs Final Marks](study_hours_vs_final_marks.png)
+
+### How to Run the Project
+
+Follow these steps to run the project on your system:
+
+### 1. Clone or Download the Repository
+Download the project folder or clone it from GitHub.
+
+---
+
+### 2. Open the Project in VS Code
+Open the folder containing the project files in **Visual Studio Code**.
+
+Make sure the following files are present in the same folder:
+
+- `student_performance_predictor.py`
+- `student_data_realistic.csv`
+- `README.md`
+
+---
+
+### 3. Install Required Libraries
+Open the terminal in VS Code and run:
+
+             pip install pandas numpy matplotlib scikit-learn
+### 4.Run the Python File
+
+In the terminal, run:
+
+              python student_performance_predictor.py
+
+### 5.Enter Student Details
+
+The program will ask the user to enter
+
+### 6.View the Prediction
+
+After entering the details, the model will display the predicted final marks.
+
+
+
 
 The output may contain decimal values, which are rounded for better readability.
