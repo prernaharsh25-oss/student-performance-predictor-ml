@@ -1,60 +1,47 @@
-# student-performance-predictor-ml
-A machine learning project that predicts student final marks based on study habits and academic performance factors.
 # Student Performance Predictor using Machine Learning
 
-## Project Description
-This project predicts a student's **final marks** using Machine Learning based on academic and study-related factors.
+## 📌 Description
+This project is a machine learning-based system that predicts a student's final marks based on various academic and lifestyle factors.
 
-The system takes student-related input values such as study hours, attendance, assignments completed, internal marks, and sleep hours, and predicts the student's expected final marks.
+The model analyzes inputs such as study hours, attendance, assignments completed, internal marks, and sleep hours to estimate the final exam performance of a student.
 
-This project is built using **Python**, **Pandas**, **Scikit-learn**, and **Matplotlib**.
-
-# Objectives of the Project
-
-The main objectives of this project are:
-
-- To build a machine learning model that can predict student academic performance
-- To understand how student-related factors affect final marks
-- To apply **Linear Regression** on real-like student data
-- To analyze and visualize performance trends using graphs
-- To create a simple prediction system that can be used with new student data
+It is built using Python and uses a Linear Regression model for prediction.
 
 ---
 
-# ->Inputs Required
-
-The model requires the following input features:
-
-| Input Feature | Description |
-|--------------|-------------|
-| `study_hours` | Number of hours a student studies |
-| `attendance` | Student attendance percentage |
-| `assignments_completed` | Number of assignments completed |
-| `internal_marks` | Marks scored in internal assessments |
-| `sleep_hours` | Average number of sleep hours |
-
-These input values are used by the model to predict the final result.
+## 🎯 Objectives
+- To build a machine learning model for predicting student performance
+- To understand the relationship between study habits and academic results
+- To apply regression techniques on structured data
+- To create a simple and usable prediction system
 
 ---
+
+## ✨ Features
+- Predicts final marks based on multiple input factors
+- Uses real-like dataset for training
+- Provides accurate and realistic predictions
+- Allows user to enter custom input via terminal
+- Includes graphical visualization of data trends
+
+---
+
+## 📥 Inputs Required
+The model requires the following inputs:
+
+| Feature | Description |
+|--------|------------|
+| study_hours | Number of hours studied |
+| attendance | Attendance percentage |
+| assignments_completed | Number of assignments completed |
+| internal_marks | Marks in internal exams |
+| sleep_hours | Average sleep hours |
+
+---
+
+## 📤 Output Generated
+The model outputs:
 
 ## **Predicted Final Marks**
 
-The machine learning model generates a predicted value for the student's final marks based on the given input features.
-
-#Technologies and Libraries Used
-
-      -Python
-       -Pandas
-        -NumPy
-      -Matplotlib
-     -Scikit-learn
-     -VS Code
-
----
-# ->Output Generated
-
-The output of this project is:
-Example output:
-
-``` id="5n5u9j"
-Predicted Final Marks for New Student: 76.48
+### Example:
