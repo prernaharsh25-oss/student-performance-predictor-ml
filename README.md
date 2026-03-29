@@ -1,10 +1,7 @@
 # Student Performance Predictor using Machine Learning
 
 ## Description
-This project is a machine learning-based system that predicts a student's final marks based on various academic and lifestyle factors.
-
-The model analyzes inputs such as study hours, attendance, assignments completed, internal marks, and sleep hours to estimate the final exam performance of a student.
-
+This project is a machine learning-based system that predicts a student's final marks based on various academic and lifestyle factors. The model analyzes inputs such as study hours, attendance, assignments completed, internal marks, and sleep hours to estimate the final exam performance of a student.
 It is built using Python and uses a Linear Regression model for prediction.
 
 ---
@@ -48,17 +45,18 @@ The output is a **numerical value (marks out of 100)**.
 ---
 
 ### Example Input
-Study Hours: 6
-Attendance: 85
-Assignments Completed: 8
-Internal Marks: 20
-Sleep Hours: 7
+                Enter student details to predict marks:
+                Enter study hours: 6
+                Enter attendance (%): 85
+                Enter assignments completed: 8
+                Enter internal marks: 20
+                Enter sleep hours: 7
 
 
 ---
 
 ### Corresponding Output
-Predicted Final Marks: 76.48
+                Predicted Final Marks: 76.48
 
 
 ---
