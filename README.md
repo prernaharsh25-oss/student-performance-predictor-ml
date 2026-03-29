@@ -73,7 +73,7 @@ This graph shows the relationship between the number of study hours and the fina
 
 ![Study Hours vs Final Marks](study_hours_vs_final_marks.png)
 
-#### How to Run the Project
+## How to Run the Project
 
 Follow these steps to run the project on your system:
 
@@ -111,7 +111,7 @@ The program will ask the user to enter
 
 After entering the details, the model will display the predicted final marks.
 
-### Model Performance
+## Model Performance
 
 The model was evaluated using standard regression metrics to measure prediction accuracy.
 
@@ -123,7 +123,7 @@ The model was evaluated using standard regression metrics to measure prediction 
 - The **Mean Absolute Error (MAE)** shows that the model is off by around **3 marks on average**.
 - The **R² Score** indicates that the model explains about **95.6% of the variation** in student final marks.
 
-### Technologies Used
+## Technologies Used
 
 The following technologies and libraries were used in this project:
 
