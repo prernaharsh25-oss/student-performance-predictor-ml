@@ -40,8 +40,31 @@ The model requires the following inputs:
 ---
 
 ## Output Generated
-The model outputs:
 
-## **Predicted Final Marks**
+The system generates the **predicted final marks** of a student based on the input values provided.
 
-### Example:
+The output is a **numerical value (marks out of 100)**.
+
+---
+
+### Example Input
+Study Hours: 6
+Attendance: 85
+Assignments Completed: 8
+Internal Marks: 20
+Sleep Hours: 7
+
+
+---
+
+### Corresponding Output
+Predicted Final Marks: 76.48
+
+
+---
+
+### Explanation
+
+The model analyzes the relationship between the input features and predicts the most likely final marks using the trained Linear Regression model.
+
+The output may contain decimal values, which are rounded for better readability.
