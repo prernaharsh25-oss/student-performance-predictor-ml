@@ -111,6 +111,30 @@ The program will ask the user to enter
 
 After entering the details, the model will display the predicted final marks.
 
+## Model Performance
+
+The model was evaluated using standard regression metrics to measure prediction accuracy.
+
+### Evaluation Results
+- **Mean Absolute Error (MAE):** 3.27  
+- **R² Score:** 0.956  
+
+### Interpretation
+- The **Mean Absolute Error (MAE)** shows that the model is off by around **3 marks on average**.
+- The **R² Score** indicates that the model explains about **95.6% of the variation** in student final marks.
+
+### Technologies Used
+
+The following technologies and libraries were used in this project:
+
+- **Python** → Core programming language used for building the project
+- **Pandas** → Used for loading and handling the dataset
+- **NumPy** → Used for numerical operations
+- **Matplotlib** → Used for data visualization and plotting graphs
+- **Scikit-learn** → Used for machine learning model training and evaluation
+- **Linear Regression** → Machine learning algorithm used for prediction
+- **VS Code** → Code editor used for development
+
 
 
 
