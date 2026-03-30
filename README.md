@@ -75,7 +75,7 @@ This graph shows the relationship between the number of study hours and the fina
 
 ## How to Run the Project
 
-Follow these steps to run the project on your system:
+Follow these steps:
 
 ### 1. Clone or Download the Repository
 Download the project folder or clone it from GitHub.
@@ -105,7 +105,7 @@ In the terminal, run:
 
 ### 5.Enter Student Details
 
-The program will ask the user to enter
+User has to enter the required details
 
 ### 6.View the Prediction
 
